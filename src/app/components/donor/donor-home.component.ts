@@ -531,7 +531,7 @@ export class DonorHomeComponent {
         date: new Date().toISOString().split('T')[0],
         beneficiaryRequests: 0
       };
-      // You might want to add a success message or notification here
+      // You might want to add a success message or notification herea
     } else {
       // Handle validation errors
       console.error('Please fill all required fields');
